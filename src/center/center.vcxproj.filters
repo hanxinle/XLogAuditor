@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="XCenter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="center_main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="XCenter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="makefile">
+      <Filter>资源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{ed3401e0-f7e2-4c93-9f26-914425e56bf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{fe58ab80-b291-419e-8dae-079d3cd738e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{86dcf2b8-1060-48ca-a9b5-a59d38f9f784}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

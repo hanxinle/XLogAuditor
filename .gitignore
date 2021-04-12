@@ -1,0 +1,16 @@
+# LInux and windows
+*.exe
+*.out
+*.obj
+*.idb
+*.pdb
+*.log
+*.tlog
+*.txt
+*.ilk
+*.pch
+*.res
+*.suo
+*.db
+*.ipch
+*.vs
