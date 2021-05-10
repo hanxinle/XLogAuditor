@@ -1,29 +1,4 @@
-﻿/*/*******************************************************************************
-**                                                                            **
-**                     Jiedi(China nanjing)Ltd.                               **
-**	               创建：丁宋涛 夏曹俊，此代码可用作为学习参考                **
-*******************************************************************************/
-
-/*****************************FILE INFOMATION***********************************
-**
-** Project       : C++Mysql8.0数据库跨平台编程实战
-** Contact       : xiacaojun@qq.com
-**  博客   : http://blog.csdn.net/jiedichina
-**	视频课程 : 网易云课堂	http://study.163.com/u/xiacaojun
-               腾讯课堂		https://jiedi.ke.qq.com/
-               csdn学院		http://edu.csdn.net/lecturer/lecturer_detail?lecturer_id=961
-**             51cto学院	http://edu.51cto.com/lecturer/index/user_id-12016059.html
-** 			   老夏课堂		http://www.laoxiaketang.com
-**
-**   C++Mysql8.0数据库跨平台编程实战课程 课程群 ：735540120 加入群下载代码和交流
-**   微信公众号  : jiedi2007
-**		头条号	 : 夏曹俊
-**
-*****************************************************************************
-//！！！！！！！！！ C++Mysql8.0数据库跨平台编程实战 课程  QQ群：735540120 下载代码和交流*/
-// LXMysql.cpp : 定义 DLL 应用程序的导出函数。
-//
-#include "LXMysql.h"
+﻿#include "LXMysql.h"
 #include <iostream>
 #include <mysql.h>
 using namespace std;
